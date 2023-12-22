@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Proyecto2_Progra5</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="Favor_login">Favor ingresar con su informacion</string>
+    <string name="Email">Email</string>
+    <string name="Clave">Contraseña</string>
+    <string name="Login">Login</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="SalonComunal">Salon Comunal</string>
+    <string name="SALONCOMUNAL">SALON COMUNAL</string>
+    <string name="Cedula">Cedula</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Favor_Registrar">Favor registrarse con su informacion</string>
+    <string name="title_activity_inicio">Inicio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Cerrar Sesion</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Reservaciones</string>
+    <string name="menu_slideshow">Usuarios</string>
+    <string name="usu">Usuarios</string>
+    <string name="cedulaU">Cedula</string>
+    <string name="btnMostrar">Mostrar</string>
+    <string name="nombreU">Nombre</string>
+    <string name="correoU">Correo</string>
+    <string name="claveU">Clave</string>
+    <string name="telefonoU">Telefono</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnActualizar">Actualizar</string>
+    <string name="btnBorrar">Borrar</string>
+    <string name="btnListar">Listar</string>
+    <string name="inicio">Pantalla de Inicio</string>
+    <string name="BTNActualizar">Actualizar</string>
+    <string name="BTNActualizarReserva">Actualizar</string>
+    <string name="BTNEditarReserva">Editar</string>
+    <string name="btnCrear">Crear</string>
+    <string name="btnEliminarReserva">Eliminar</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="BTNBuscar2">Buscar</string>
+    <string name="menu_catalogo">Catalogo</string>
+    <string name="btn_BorrarCatalogo">Eliminar</string>
+    <string name="btn_BuscarCatalogo">Buscar</string>
+    <string name="btn_CrearCatalogo">Crear</string>
+    <string name="btn_ActualizarCatalogo">Actualizar</string>
+    <string name="btn_IngresarImagen">Seleccionar Imagen</string>
+
+
+</resources>
