@@ -1,0 +1,121 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Proyecto2_Progra5
+build_property.RootNamespace = Proyecto2_Progra5
+build_property.ProjectDir = D:\Documentos\Universidad\VI Q\Progra V\Proyectos\entrega\Entrega Proyecto 2\Proyecto1_corregido\Proyecto1_Progra5(corregido)\Proyecto2_Progra5\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Documentos\Universidad\VI Q\Progra V\Proyectos\entrega\Entrega Proyecto 2\Proyecto1_corregido\Proyecto1_Progra5(corregido)\Proyecto2_Progra5
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Login/Registrarse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0cmFyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Reservas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Reservas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Reservas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Reservas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Reservas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzZXJ2YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Shared/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEZvb3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Shared/Menu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/UsuReservas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1UmVzZXJ2YXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documentos/Universidad/VI Q/Progra V/Proyectos/entrega/Entrega Proyecto 2/Proyecto1_corregido/Proyecto1_Progra5(corregido)/Proyecto2_Progra5/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ztflb8ll74

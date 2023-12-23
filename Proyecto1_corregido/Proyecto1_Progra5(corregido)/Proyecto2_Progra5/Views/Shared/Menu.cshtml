@@ -1,0 +1,48 @@
+﻿<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+    <div class="container-fluid">
+        <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Proyecto2_Progra5</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+            <ul class="navbar-nav flex-grow-1">
+                <li class="nav-item">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                @if (ViewData["rol"] == "1")
+                {
+                    <li>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
+                    </li>
+
+                    <li>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Roles" asp-action="Index">Roles</a>
+                    </li>                  
+                }
+                @if (ViewData["rol"] == "1" || ViewData["rol"] == "2")
+                {
+                    <li>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Reservas" asp-action="Index">Reservas</a>
+                    </li>
+                }
+            </ul>
+
+            <ul class="navbar-nav ml-auto">
+                @if (ViewData["nombreUsuario"] == "")
+                {
+                    <li class="nav-item">
+                        <a class="btn btn-success" asp-area="" asp-controller="Login" asp-action="Login" style="text-align:right">Login</a>
+                    </li>
+                }
+                @if (ViewData["nombreUsuario"] != "")
+                {
+                    <li class="nav-item">
+                        <a class="btn btn-danger" asp-area="" asp-controller="Home" asp-action="CerrarSesion" style="text-align:right">Cerrar sesion</a>
+                    </li>
+                }
+            </ul>
+
+        </div>
+    </div>
+</nav>
